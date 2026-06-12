@@ -53,19 +53,19 @@ Recommended datasets:
 ---
 
 ## 🖼️ Project Screenshots
-![Sales Overview](assests/sales overview.png)
+![Sales Overview](assests/sales_overview.png)
 
 ![Analysis](assests/analysis.png)
 
-![Analysis Complete](assests/analysis complete.png)
+![Analysis Complete](assests/analysis_complete.png)
 
-![AI Suggestion](assests/ai%20suggestion.png)
+![AI Suggestion](assests/ai_suggestion.png)
 
 ![Overview](assests/overview.png)
 
 ![Execution](assests/executing.png)
 
-![Sales Suggestion](assests/sales%20suggestion1.png)
+![Sales Suggestion](assests/sales_suggestion1.png)
 
 ---
 
