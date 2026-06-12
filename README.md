@@ -53,46 +53,19 @@ Recommended datasets:
 ---
 
 ## 🖼️ Project Screenshots
+![Sales Overview](assests/sales%20overview.png)
 
-### Sales Overview Dashboard
+![Analysis](assests/analysis.png)
 
-![Sales Overview](assets/sales%20overview.png)
+![Analysis Complete](assests/analysis%20complete.png)
 
----
+![AI Suggestion](assests/ai%20suggestion.png)
 
-### Analysis Dashboard
+![Overview](assests/overview.png)
 
-![Analysis](assets/analysis.png)
+![Execution](assests/executing.png)
 
----
-
-### Analysis Complete
-
-![Analysis Complete](assets/analysis%20complete.png)
-
----
-
-### AI Suggestions
-
-![AI Suggestion](assets/ai%20suggestion.png)
-
----
-
-### Investigation Overview
-
-![Overview](assets/overview.png)
-
----
-
-### Execution Process
-
-![Execution](assets/executing.png)
-
----
-
-### Sales Recommendations
-
-![Sales Suggestion](assets/sales%20suggestion1.png)
+![Sales Suggestion](assests/sales%20suggestion1.png)
 
 ---
 
