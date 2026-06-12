@@ -19,6 +19,14 @@ AI-Powered Sales Drop Investigation System that leverages Large Language Models 
 
 ---
 
+## 🌟 Project Highlights
+
+- Built an AI-powered root cause investigation engine.
+- Integrated Retrieval-Augmented Generation (RAG) for contextual insights.
+- Automated sales anomaly detection and business recommendation generation.
+- Developed interactive dashboards for executive-level reporting.
+- Reduced manual investigation effort through AI-assisted analysis.
+
 ## 🛠️ Tech Stack
 
 - Python
@@ -52,6 +60,32 @@ Recommended datasets:
 
 ---
 
+## 🏗️ Architecture
+
+Sales Data
+     │
+     ▼
+Data Processing
+     │
+     ▼
+Sales Analytics Engine
+     │
+     ▼
+Anomaly Detection
+     │
+     ▼
+RAG Knowledge Base
+     │
+     ▼
+LLM Investigation
+     │
+     ▼
+AI Recommendations
+     │
+     ▼
+Streamlit Dashboard
+
+
 ## 🖼️ Project Screenshots
 ![Sales Overview](ai%20powered/assets/sales_overview.png)
 
@@ -68,6 +102,23 @@ Recommended datasets:
 ![Sales Suggestion](ai%20powered/assets/sales_suggestion.png)
 
 ---
+
+## 🎯 Business Impact
+
+- Detects revenue decline patterns automatically.
+- Identifies potential root causes using AI.
+- Generates actionable business recommendations.
+- Enables faster decision-making through intelligent analytics.
+- Improves operational efficiency by reducing manual analysis.
+  
+## 🚀 Future Enhancements
+
+- Real-time sales monitoring using Kafka
+- Predictive sales forecasting
+- Multi-agent AI investigation
+- Cloud deployment on AWS/GCP
+- Automated alerting system
+- Natural language business querying
 
 ## ▶️ Installation
 
