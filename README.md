@@ -1,4 +1,4 @@
-# 📉 AI-Powered Sales Drop Investigation System
+#  AI-Powered Sales Drop Investigation System
 
 ## Overview
 
@@ -6,7 +6,7 @@ AI-Powered Sales Drop Investigation System that leverages Large Language Models 
 
 ---
 
-## 🚀 Features
+##  Features
 
 - AI-powered root cause analysis
 - Sales drop detection and anomaly identification
@@ -19,7 +19,7 @@ AI-Powered Sales Drop Investigation System that leverages Large Language Models 
 
 ---
 
-## 🌟 Project Highlights
+##  Project Highlights
 
 - Built an AI-powered root cause investigation engine.
 - Integrated Retrieval-Augmented Generation (RAG) for contextual insights.
@@ -27,7 +27,7 @@ AI-Powered Sales Drop Investigation System that leverages Large Language Models 
 - Developed interactive dashboards for executive-level reporting.
 - Reduced manual investigation effort through AI-assisted analysis.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - Python
 - Pandas
@@ -41,9 +41,9 @@ AI-Powered Sales Drop Investigation System that leverages Large Language Models 
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
-⚠️ **Dataset Notice**
+ **Dataset Notice**
 
 The original sales dataset has been removed from this repository to reduce storage usage.
 
@@ -60,7 +60,7 @@ Recommended datasets:
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 Sales Data
      │
@@ -86,7 +86,7 @@ AI Recommendations
 Streamlit Dashboard
 
 
-## 🖼️ Project Screenshots
+##  Project Screenshots
 ![Sales Overview](ai%20powered/assets/sales_overview.png)
 
 ![Analysis](ai%20powered/assets/analysis.png)
@@ -103,7 +103,7 @@ Streamlit Dashboard
 
 ---
 
-## 🎯 Business Impact
+##  Business Impact
 
 - Detects revenue decline patterns automatically.
 - Identifies potential root causes using AI.
@@ -111,7 +111,7 @@ Streamlit Dashboard
 - Enables faster decision-making through intelligent analytics.
 - Improves operational efficiency by reducing manual analysis.
   
-## 🚀 Future Enhancements
+##  Future Enhancements
 
 - Real-time sales monitoring using Kafka
 - Predictive sales forecasting
@@ -120,7 +120,7 @@ Streamlit Dashboard
 - Automated alerting system
 - Natural language business querying
 
-## ▶️ Installation
+##  Installation
 
 ```bash
 git clone https://github.com/yourusername/AI-Powered-Sales-Drop-Investigation-System.git
