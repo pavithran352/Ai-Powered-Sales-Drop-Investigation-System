@@ -54,7 +54,7 @@ Recommended datasets:
 
 ## 🖼️ Project Screenshots
 
-![Sales Overview](../assets/sales_overview.png)
+<img src="../assets/sales_overview.png" width="800">
 
 ![Analysis](../assets/analysis.png)
 
