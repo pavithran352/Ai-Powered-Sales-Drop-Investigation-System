@@ -1,64 +1,106 @@
-# Ai-Powered-Sales-Drop-Investigation-System
-AI-Powered Sales Drop Investigation System that leverages LLMs, RAG, and data analytics to automatically identify sales decline patterns, uncover root causes, generate actionable insights, and visualize trends through interactive dashboards.
 # 📉 AI-Powered Sales Drop Investigation System
 
 ## Overview
-AI-Powered Sales Drop Investigation System that leverages Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and data analytics to automatically identify sales decline patterns, uncover root causes, generate actionable insights, and visualize trends through interactive dashboards.
-## Dataset
 
-⚠️ Note: The original sales dataset has been removed from this repository to reduce storage usage and comply with GitHub repository size limitations.
+AI-Powered Sales Drop Investigation System that leverages Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and advanced data analytics to automatically identify sales decline patterns, uncover root causes, generate actionable insights, and visualize trends through interactive dashboards.
 
-Before running the project, download a sales dataset from Kaggle and place it in the `data/` directory.
+---
 
-Recommended Kaggle datasets:
-- Superstore Sales Dataset
-- Retail Sales Dataset
-- Sales Forecasting Dataset
-- E-commerce Sales Dataset
+## 🚀 Features
 
-Example folder structure:
-
-data/
-├── sales_data.csv
-
-After downloading the dataset, update the file path in the configuration file if required and execute the preprocessing pipeline.
-
-## Running the Project
-
-1. Download a sales dataset from Kaggle.
-2. Place the dataset inside the `data/` folder.
-3. Run preprocessing:
-
-```bash
-python preprocess.py
-## Features
-- Automated sales drop detection
-- Root cause analysis using AI
-- LLM-powered business insights
+- AI-powered root cause analysis
+- Sales drop detection and anomaly identification
+- LLM-generated business insights
 - RAG-based contextual recommendations
-- Interactive Streamlit dashboards
-- Trend and anomaly detection
-- SQL-based sales analytics
-- Data visualization and reporting
+- Interactive Streamlit dashboard
+- Data visualization and trend analysis
+- Automated investigation reports
+- SQL-powered analytics engine
 
-## Tech Stack
+---
+
+## 🛠️ Tech Stack
+
 - Python
 - Pandas
 - NumPy
 - Streamlit
 - Plotly
-- SQL
 - LangChain
 - FAISS
 - Gemini/OpenAI
+- MySQL
 
-## Project Workflow
+---
 
-Sales Data → Data Processing → Sales Analysis → RAG Retrieval → LLM Investigation → Dashboard Insights
+## 📂 Dataset
 
-## Installation
+⚠️ **Dataset Notice**
+
+The original sales dataset has been removed from this repository to reduce storage usage.
+
+Before running the project:
+
+1. Download a sales dataset from Kaggle.
+2. Place the dataset inside the `data/` folder.
+3. Update the dataset path if required.
+
+Recommended datasets:
+- Superstore Sales Dataset
+- Retail Sales Dataset
+- E-commerce Sales Dataset
+
+---
+
+## 🖼️ Project Screenshots
+
+### Sales Overview Dashboard
+
+![Sales Overview](assets/sales%20overview.png)
+
+---
+
+### Analysis Dashboard
+
+![Analysis](assets/analysis.png)
+
+---
+
+### Analysis Complete
+
+![Analysis Complete](assets/analysis%20complete.png)
+
+---
+
+### AI Suggestions
+
+![AI Suggestion](assets/ai%20suggestion.png)
+
+---
+
+### Investigation Overview
+
+![Overview](assets/overview.png)
+
+---
+
+### Execution Process
+
+![Execution](assets/executing.png)
+
+---
+
+### Sales Recommendations
+
+![Sales Suggestion](assets/sales%20suggestion1.png)
+
+---
+
+## ▶️ Installation
 
 ```bash
 git clone https://github.com/yourusername/AI-Powered-Sales-Drop-Investigation-System.git
+
 cd AI-Powered-Sales-Drop-Investigation-System
+
 pip install -r requirements.txt
