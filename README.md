@@ -53,17 +53,19 @@ Recommended datasets:
 ---
 
 ## 🖼️ Project Screenshots
+![Sales Overview](ai%20powered/assets/sales_overview.png)
 
-<img src="../assets/sales_overview.png" width="800">
+![Analysis](ai%20powered/assets/analysis.png)
 
+![Analysis Complete](ai%20powered/assets/analysis_complete.png)
 
-![AI Suggestion](../assets/ai_suggestion.png)
+![AI Suggestion](ai%20powered/assets/ai_suggestion.png)
 
-![Overview](../assets/overview.png)
+![Overview](ai%20powered/assets/overview.png)
 
-![Execution](../assets/executing.png)
+![Execution](ai%20powered/assets/executing.png)
 
-![Sales Suggestion](../assets/sales_suggestion.png)
+![Sales Suggestion](ai%20powered/assets/sales_suggestion.png)
 
 ---
 
